@@ -8,9 +8,9 @@
 
 2.Add markup to the body
   <div class="carousel">
-        <img src="images/cat.jpg" alt="Caption 1" />
-        <img src="images/dog.jpg" alt="Caption 2" />
-        <img src="images/horse.jpg" alt="Caption 3" /> ...
+        <img src="images/1.jpg" alt="Caption 1" />
+        <img src="images/2.jpg" alt="Caption 2" />
+        <img src="images/3.jpg" alt="Caption 3" /> ...
     </div>
     
 3.Call the plugin
